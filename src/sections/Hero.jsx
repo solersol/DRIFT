@@ -4,9 +4,9 @@ const Hero = () => {
       <h1 className="flex justify-center font-anton text-[70px] mb-0">$DRIFT</h1>
       <h2 className="flex justify-center font-anton text-[22px] mb-10 mt-0 text-black">OFFICIAL BOYS DRIFT CLUB</h2>
       <h1 className="flex justify-center font-anton text-[35px] mb-0 text-center px-4 break-words">CA: </h1>
-      <button className="mt-6 bg-blue-500 text-white rounded-full px-10 py-4 hover:bg-blue-700 font-anton text-[24px]">
+      <a href="https://pump.fun/board"><button className="mt-6 bg-blue-500 text-white rounded-full px-10 py-4 hover:bg-blue-700 font-anton text-[24px]">
         BUY $DRIFT
-      </button>
+      </button></a>
     </section>
   );
 };
